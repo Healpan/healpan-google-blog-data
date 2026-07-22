@@ -1,0 +1,47 @@
+{
+  "version": 1,
+  "timezone": "Asia/Seoul",
+  "updatedAt": "2026-07-23",
+  "cards": [
+    {
+      "id": "priconne-iroha-20260719",
+      "game": "프리코네",
+      "name": "이로하",
+      "start": "2026-07-19T15:00:00+09:00",
+      "end": "2026-07-26T13:59:59+09:00",
+      "url": "",
+      "image": "images/iroha.webp",
+      "order": 10
+    },
+    {
+      "id": "gfl2-cheyanne-20260716",
+      "game": "소녀전선2",
+      "name": "샤이엔",
+      "start": "2026-07-16T09:00:00+09:00",
+      "end": "2026-08-05T18:59:59+09:00",
+      "url": "",
+      "image": "images/cheyanne.webp",
+      "order": 20
+    },
+    {
+      "id": "gfl2-liushih-20260716",
+      "game": "소녀전선2",
+      "name": "류시",
+      "start": "2026-07-16T09:00:00+09:00",
+      "end": "2026-08-05T18:59:59+09:00",
+      "url": "",
+      "image": "images/liushih.webp",
+      "order": 30
+    },
+    {
+      "id": "priconne-eris-summer-20260729",
+      "game": "프리코네",
+      "name": "에리스(여름)",
+      "start": "2026-07-29T16:00:00+09:00",
+      "end": "2026-08-08T18:59:59+09:00",
+      "url": "",
+      "image": "images/eris-summer.webp",
+      "order": 40
+    }
+  ]
+}

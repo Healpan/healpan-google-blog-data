@@ -52,6 +52,16 @@
       "url": "",
       "image": "images/gfl2/2026/sextans.webp",
       "order": 50
+    },
+    {
+      "id": "priconne-sheffy-summer-20260808",
+      "game": "프리코네",
+      "name": "셰피(여름)",
+      "start": "2026-08-08T15:00:00+09:00",
+      "end": "2026-08-20T14:59:59+09:00",
+      "url": "",
+      "image": "images/priconne/2026/sheffy-summer.webp",
+      "order": 60
     }
   ]
 }

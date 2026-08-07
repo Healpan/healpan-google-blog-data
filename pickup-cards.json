@@ -1,7 +1,7 @@
 {
   "version": 1,
   "timezone": "Asia/Seoul",
-  "updatedAt": "2026-08-04",
+  "updatedAt": "2026-08-07",
   "cards": [
     {
       "id": "priconne-iroha-20260719",
@@ -38,7 +38,7 @@
       "game": "프리코네",
       "name": "에리스(여름)",
       "start": "2026-07-29T16:00:00+09:00",
-      "end": "2026-08-08T18:59:59+09:00",
+      "end": "2026-08-08T14:59:59+09:00",
       "url": "",
       "image": "images/priconne/2026/eris-summer.webp",
       "order": 40

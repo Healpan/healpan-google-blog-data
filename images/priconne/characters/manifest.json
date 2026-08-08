@@ -1,8 +1,8 @@
 {
-  "version": 2,
-  "updatedAt": "2026-08-07",
-  "source": "프리코네_캐릭터_헤드.zip + 후부키(여름).png",
-  "count": 343,
+  "version": 3,
+  "updatedAt": "2026-08-08",
+  "source": "프리코네_캐릭터_헤드.zip + 후부키(여름).png + 카스미(매지컬).png",
+  "count": 344,
   "imageFormat": {
     "type": "WebP",
     "width": 128,
@@ -1037,6 +1037,10 @@
     {
       "name": "카린",
       "image": "images/priconne/characters/카린.webp"
+    },
+    {
+      "name": "카스미(매지컬)",
+      "image": "images/priconne/characters/카스미(매지컬).webp"
     },
     {
       "name": "카스미(새해)",

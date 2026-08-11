@@ -1,7 +1,7 @@
 {
-  "version": 1,
+  "version": 2,
   "timezone": "Asia/Seoul",
-  "updatedAt": "2026-08-07",
+  "updatedAt": "2026-08-12",
   "cards": [
     {
       "id": "priconne-iroha-20260719",
@@ -10,7 +10,7 @@
       "start": "2026-07-19T15:00:00+09:00",
       "end": "2026-07-26T13:59:59+09:00",
       "url": "",
-      "image": "images/priconne/2026/iroha.webp",
+      "image": "images/priconne/characters/이로하.webp",
       "order": 10
     },
     {
@@ -40,7 +40,7 @@
       "start": "2026-07-29T16:00:00+09:00",
       "end": "2026-08-08T14:59:59+09:00",
       "url": "",
-      "image": "images/priconne/2026/eris-summer.webp",
+      "image": "images/priconne/characters/에리스(여름).webp",
       "order": 40
     },
     {
@@ -60,7 +60,7 @@
       "start": "2026-08-08T15:00:00+09:00",
       "end": "2026-08-20T14:59:59+09:00",
       "url": "",
-      "image": "images/priconne/2026/sheffy-summer.webp",
+      "image": "images/priconne/characters/셰피(여름).webp",
       "order": 60
     }
   ]

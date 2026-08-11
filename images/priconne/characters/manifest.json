@@ -1,6 +1,6 @@
 {
-  "version": 3,
-  "updatedAt": "2026-08-08",
+  "version": 4,
+  "updatedAt": "2026-08-12",
   "source": "프리코네_캐릭터_헤드.zip + 후부키(여름).png + 카스미(매지컬).png",
   "count": 344,
   "imageFormat": {
@@ -544,7 +544,7 @@
     },
     {
       "name": "셰피(여름)",
-      "image": "images/priconne/2026/sheffy-summer.webp"
+      "image": "images/priconne/characters/셰피(여름).webp"
     },
     {
       "name": "셰피(프린세스)",
@@ -776,7 +776,7 @@
     },
     {
       "name": "에리스(여름)",
-      "image": "images/priconne/2026/eris-summer.webp"
+      "image": "images/priconne/characters/에리스(여름).webp"
     },
     {
       "name": "에리스",
@@ -928,7 +928,7 @@
     },
     {
       "name": "이로하",
-      "image": "images/priconne/2026/iroha.webp"
+      "image": "images/priconne/characters/이로하.webp"
     },
     {
       "name": "이리야(새해)",
@@ -1028,7 +1028,7 @@
     },
     {
       "name": "카논",
-      "image": "images/priconne/2026/kanon.webp"
+      "image": "images/priconne/characters/카논.webp"
     },
     {
       "name": "카린(알케미스트)",
@@ -1316,7 +1316,7 @@
     },
     {
       "name": "프레시아(여름)",
-      "image": "images/priconne/2026/presia-summer.webp"
+      "image": "images/priconne/characters/프레시아(여름).webp"
     },
     {
       "name": "프레시아",
@@ -1360,7 +1360,7 @@
     },
     {
       "name": "후부키(여름)",
-      "image": "images/priconne/2026/fubuki-summer.webp"
+      "image": "images/priconne/characters/후부키(여름).webp"
     },
     {
       "name": "히요리(사라사리아)",

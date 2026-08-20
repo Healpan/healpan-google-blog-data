@@ -72,6 +72,26 @@
       "url": "",
       "image": "images/priconne/characters/프레시아(여름).webp",
       "order": 70
+    },
+    {
+      "id": "priconne-cria-summer-20260828",
+      "game": "프리코네",
+      "name": "크리아(여름)",
+      "start": "2026-08-28T16:00:00+09:00",
+      "end": "2026-09-08T14:59:59+09:00",
+      "url": "",
+      "image": "images/priconne/characters/크리아(여름).webp",
+      "order": 80
+    },
+    {
+      "id": "priconne-anemone-summer-20260908",
+      "game": "프리코네",
+      "name": "아네모네(여름)",
+      "start": "2026-09-08T15:00:00+09:00",
+      "end": "2026-09-14T13:59:59+09:00",
+      "url": "",
+      "image": "images/priconne/characters/아네모네(여름).webp",
+      "order": 90
     }
   ]
 }

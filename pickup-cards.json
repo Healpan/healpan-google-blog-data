@@ -1,7 +1,7 @@
 {
   "version": 2,
   "timezone": "Asia/Seoul",
-  "updatedAt": "2026-08-28",
+  "updatedAt": "2026-09-13",
   "cards": [
     {
       "id": "priconne-iroha-20260719",
@@ -102,6 +102,16 @@
       "url": "",
       "image": "images/priconne/characters/아네모네(여름).webp",
       "order": 90
+    },
+    {
+      "id": "gfl2-sop-20260917",
+      "game": "소녀전선2",
+      "name": "소프",
+      "start": "2026-09-17T09:00:00+09:00",
+      "end": "2026-10-07T18:59:59+09:00",
+      "url": "",
+      "image": "images/gfl2/2026/sop.webp",
+      "order": 100
     }
   ]
 }

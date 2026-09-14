@@ -1,7 +1,7 @@
 {
   "version": 2,
   "timezone": "Asia/Seoul",
-  "updatedAt": "2026-09-13",
+  "updatedAt": "2026-09-14",
   "cards": [
     {
       "id": "priconne-iroha-20260719",
@@ -112,6 +112,16 @@
       "url": "",
       "image": "images/gfl2/2026/sop.webp",
       "order": 100
+    },
+    {
+      "id": "priconne-ninon-summer-20260914",
+      "game": "프리코네",
+      "name": "니논(여름)",
+      "start": "2026-09-14T16:00:00+09:00",
+      "end": "2026-09-21T14:59:59+09:00",
+      "url": "",
+      "image": "images/priconne/characters/니논(여름).webp",
+      "order": 110
     }
   ]
 }

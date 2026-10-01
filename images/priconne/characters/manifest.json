@@ -1,8 +1,8 @@
 {
-  "version": 5,
-  "updatedAt": "2026-08-23",
-  "source": "프리코네_캐릭터_헤드.zip + 후부키(여름).png + 카스미(매지컬).png + 밤피(여름).png",
-  "count": 345,
+  "version": 6,
+  "updatedAt": "2026-10-01",
+  "source": "프리코네_캐릭터_헤드.zip + 사용자 제공 128×128 캐릭터 크롭 5종",
+  "count": 349,
   "imageFormat": {
     "type": "WebP",
     "width": 128,
@@ -11,12 +11,12 @@
   },
   "assets": [
     {
-      "name": "그레이스(바니)",
-      "image": "images/priconne/characters/그레이스(바니).webp"
-    },
-    {
       "name": "그레이스",
       "image": "images/priconne/characters/그레이스.webp"
+    },
+    {
+      "name": "그레이스(바니)",
+      "image": "images/priconne/characters/그레이스(바니).webp"
     },
     {
       "name": "글레어",
@@ -27,6 +27,10 @@
       "image": "images/priconne/characters/나나.webp"
     },
     {
+      "name": "나나카",
+      "image": "images/priconne/characters/나나카.webp"
+    },
+    {
       "name": "나나카(여름)",
       "image": "images/priconne/characters/나나카(여름).webp"
     },
@@ -35,8 +39,8 @@
       "image": "images/priconne/characters/나나카(할로윈).webp"
     },
     {
-      "name": "나나카",
-      "image": "images/priconne/characters/나나카.webp"
+      "name": "네네카",
+      "image": "images/priconne/characters/네네카.webp"
     },
     {
       "name": "네네카(새해)",
@@ -51,28 +55,28 @@
       "image": "images/priconne/characters/네네카(여름).webp"
     },
     {
-      "name": "네네카",
-      "image": "images/priconne/characters/네네카.webp"
-    },
-    {
       "name": "네비아",
       "image": "images/priconne/characters/네비아.webp"
-    },
-    {
-      "name": "네아(여름)",
-      "image": "images/priconne/characters/네아(여름).webp"
     },
     {
       "name": "네아",
       "image": "images/priconne/characters/네아.webp"
     },
     {
-      "name": "네피=네라(귀면불심)",
-      "image": "images/priconne/characters/네피=네라(귀면불심).webp"
+      "name": "네아(여름)",
+      "image": "images/priconne/characters/네아(여름).webp"
     },
     {
       "name": "네피=네라",
       "image": "images/priconne/characters/네피=네라.webp"
+    },
+    {
+      "name": "네피=네라(귀면불심)",
+      "image": "images/priconne/characters/네피=네라(귀면불심).webp"
+    },
+    {
+      "name": "노조미",
+      "image": "images/priconne/characters/노조미.webp"
     },
     {
       "name": "노조미(리버레이터)",
@@ -91,8 +95,8 @@
       "image": "images/priconne/characters/노조미(크리스마스).webp"
     },
     {
-      "name": "노조미",
-      "image": "images/priconne/characters/노조미.webp"
+      "name": "니논",
+      "image": "images/priconne/characters/니논.webp"
     },
     {
       "name": "니논(여름)",
@@ -107,8 +111,8 @@
       "image": "images/priconne/characters/니논(할로윈).webp"
     },
     {
-      "name": "니논",
-      "image": "images/priconne/characters/니논.webp"
+      "name": "라비리스타",
+      "image": "images/priconne/characters/라비리스타.webp"
     },
     {
       "name": "라비리스타(알파)",
@@ -119,8 +123,8 @@
       "image": "images/priconne/characters/라비리스타(오버로드).webp"
     },
     {
-      "name": "라비리스타",
-      "image": "images/priconne/characters/라비리스타.webp"
+      "name": "라이라엘",
+      "image": "images/priconne/characters/라이라엘.webp"
     },
     {
       "name": "라이라엘(크리스마스)",
@@ -131,8 +135,8 @@
       "image": "images/priconne/characters/라이라엘(파르페쿠토).webp"
     },
     {
-      "name": "라이라엘",
-      "image": "images/priconne/characters/라이라엘.webp"
+      "name": "란파",
+      "image": "images/priconne/characters/란파.webp"
     },
     {
       "name": "란파(여름)",
@@ -143,12 +147,12 @@
       "image": "images/priconne/characters/란파(의장복).webp"
     },
     {
-      "name": "란파",
-      "image": "images/priconne/characters/란파.webp"
-    },
-    {
       "name": "람",
       "image": "images/priconne/characters/람.webp"
+    },
+    {
+      "name": "레이",
+      "image": "images/priconne/characters/레이.webp"
     },
     {
       "name": "레이(새해)",
@@ -171,16 +175,12 @@
       "image": "images/priconne/characters/레이(할로윈).webp"
     },
     {
-      "name": "레이",
-      "image": "images/priconne/characters/레이.webp"
+      "name": "렘",
+      "image": "images/priconne/characters/렘.webp"
     },
     {
       "name": "렘(여름)",
       "image": "images/priconne/characters/렘(여름).webp"
-    },
-    {
-      "name": "렘",
-      "image": "images/priconne/characters/렘.webp"
     },
     {
       "name": "루",
@@ -195,12 +195,16 @@
       "image": "images/priconne/characters/루루이.webp"
     },
     {
+      "name": "루이즈마리",
+      "image": "images/priconne/characters/루이즈마리.webp"
+    },
+    {
       "name": "루이즈마리(여름)",
       "image": "images/priconne/characters/루이즈마리(여름).webp"
     },
     {
-      "name": "루이즈마리",
-      "image": "images/priconne/characters/루이즈마리.webp"
+      "name": "루카",
+      "image": "images/priconne/characters/루카.webp"
     },
     {
       "name": "루카(사라사리아)",
@@ -215,8 +219,8 @@
       "image": "images/priconne/characters/루카(여름).webp"
     },
     {
-      "name": "루카",
-      "image": "images/priconne/characters/루카.webp"
+      "name": "리노",
+      "image": "images/priconne/characters/리노.webp"
     },
     {
       "name": "리노(새해)",
@@ -231,8 +235,8 @@
       "image": "images/priconne/characters/리노(크리스마스).webp"
     },
     {
-      "name": "리노",
-      "image": "images/priconne/characters/리노.webp"
+      "name": "리리",
+      "image": "images/priconne/characters/리리.webp"
     },
     {
       "name": "리리(발큐리아)",
@@ -243,16 +247,20 @@
       "image": "images/priconne/characters/리리(여름).webp"
     },
     {
-      "name": "리리",
-      "image": "images/priconne/characters/리리.webp"
+      "name": "리마",
+      "image": "images/priconne/characters/리마.webp"
     },
     {
       "name": "리마(신데렐라)",
       "image": "images/priconne/characters/리마(신데렐라).webp"
     },
     {
-      "name": "리마",
-      "image": "images/priconne/characters/리마.webp"
+      "name": "리자",
+      "image": "images/priconne/characters/리자.webp"
+    },
+    {
+      "name": "린",
+      "image": "images/priconne/characters/린.webp"
     },
     {
       "name": "린(데레)",
@@ -267,16 +275,16 @@
       "image": "images/priconne/characters/린(할로윈).webp"
     },
     {
-      "name": "린",
-      "image": "images/priconne/characters/린.webp"
-    },
-    {
       "name": "린드",
       "image": "images/priconne/characters/린드.webp"
     },
     {
       "name": "마스미(새해)",
       "image": "images/priconne/characters/마스미(새해).webp"
+    },
+    {
+      "name": "마츠리",
+      "image": "images/priconne/characters/마츠리.webp"
     },
     {
       "name": "마츠리(와일드)",
@@ -287,8 +295,8 @@
       "image": "images/priconne/characters/마츠리(할로윈).webp"
     },
     {
-      "name": "마츠리",
-      "image": "images/priconne/characters/마츠리.webp"
+      "name": "마코토",
+      "image": "images/priconne/characters/마코토.webp"
     },
     {
       "name": "마코토(신데렐라)",
@@ -303,8 +311,8 @@
       "image": "images/priconne/characters/마코토(커맨더).webp"
     },
     {
-      "name": "마코토",
-      "image": "images/priconne/characters/마코토.webp"
+      "name": "마호",
+      "image": "images/priconne/characters/마호.webp"
     },
     {
       "name": "마호(걸판)",
@@ -327,8 +335,8 @@
       "image": "images/priconne/characters/마호(탐험가).webp"
     },
     {
-      "name": "마호",
-      "image": "images/priconne/characters/마호.webp"
+      "name": "마히루",
+      "image": "images/priconne/characters/마히루.webp"
     },
     {
       "name": "마히루(레인저)",
@@ -339,12 +347,12 @@
       "image": "images/priconne/characters/마히루(크리스마스).webp"
     },
     {
-      "name": "마히루",
-      "image": "images/priconne/characters/마히루.webp"
-    },
-    {
       "name": "메두사",
       "image": "images/priconne/characters/메두사.webp"
+    },
+    {
+      "name": "모니카",
+      "image": "images/priconne/characters/모니카.webp"
     },
     {
       "name": "모니카(매지컬)",
@@ -359,8 +367,8 @@
       "image": "images/priconne/characters/모니카(카페).webp"
     },
     {
-      "name": "모니카",
-      "image": "images/priconne/characters/모니카.webp"
+      "name": "무이미",
+      "image": "images/priconne/characters/무이미.webp"
     },
     {
       "name": "무이미(리버레이터)",
@@ -371,8 +379,8 @@
       "image": "images/priconne/characters/무이미(새해).webp"
     },
     {
-      "name": "무이미",
-      "image": "images/priconne/characters/무이미.webp"
+      "name": "미미",
+      "image": "images/priconne/characters/미미.webp"
     },
     {
       "name": "미미(여름)",
@@ -383,8 +391,8 @@
       "image": "images/priconne/characters/미미(할로윈).webp"
     },
     {
-      "name": "미미",
-      "image": "images/priconne/characters/미미.webp"
+      "name": "미사키",
+      "image": "images/priconne/characters/미사키.webp"
     },
     {
       "name": "미사키(무대)",
@@ -395,8 +403,8 @@
       "image": "images/priconne/characters/미사키(할로윈).webp"
     },
     {
-      "name": "미사키",
-      "image": "images/priconne/characters/미사키.webp"
+      "name": "미사토",
+      "image": "images/priconne/characters/미사토.webp"
     },
     {
       "name": "미사토(새해)",
@@ -407,12 +415,8 @@
       "image": "images/priconne/characters/미사토(여름).webp"
     },
     {
-      "name": "미사토",
-      "image": "images/priconne/characters/미사토.webp"
-    },
-    {
-      "name": "미소기&미미&쿄우카",
-      "image": "images/priconne/characters/미소기&미미&쿄우카.webp"
+      "name": "미소기",
+      "image": "images/priconne/characters/미소기.webp"
     },
     {
       "name": "미소기(여름)",
@@ -423,8 +427,12 @@
       "image": "images/priconne/characters/미소기(할로윈).webp"
     },
     {
-      "name": "미소기",
-      "image": "images/priconne/characters/미소기.webp"
+      "name": "미소기&미미&쿄우카",
+      "image": "images/priconne/characters/미소기&미미&쿄우카.webp"
+    },
+    {
+      "name": "미소라",
+      "image": "images/priconne/characters/미소라.webp"
     },
     {
       "name": "미소라(여름)",
@@ -435,8 +443,8 @@
       "image": "images/priconne/characters/미소라(크리스마스).webp"
     },
     {
-      "name": "미소라",
-      "image": "images/priconne/characters/미소라.webp"
+      "name": "미야코",
+      "image": "images/priconne/characters/미야코.webp"
     },
     {
       "name": "미야코(크리스마스)",
@@ -447,12 +455,12 @@
       "image": "images/priconne/characters/미야코(할로윈).webp"
     },
     {
-      "name": "미야코",
-      "image": "images/priconne/characters/미야코.webp"
-    },
-    {
       "name": "미오(데레)",
       "image": "images/priconne/characters/미오(데레).webp"
+    },
+    {
+      "name": "미츠키",
+      "image": "images/priconne/characters/미츠키.webp"
     },
     {
       "name": "미츠키(새해)",
@@ -463,12 +471,12 @@
       "image": "images/priconne/characters/미츠키(오에도).webp"
     },
     {
-      "name": "미츠키",
-      "image": "images/priconne/characters/미츠키.webp"
-    },
-    {
       "name": "미호(걸판)",
       "image": "images/priconne/characters/미호(걸판).webp"
+    },
+    {
+      "name": "미후유",
+      "image": "images/priconne/characters/미후유.webp"
     },
     {
       "name": "미후유(여름)",
@@ -479,16 +487,12 @@
       "image": "images/priconne/characters/미후유(작업복).webp"
     },
     {
-      "name": "미후유",
-      "image": "images/priconne/characters/미후유.webp"
+      "name": "바이올렛",
+      "image": "images/priconne/characters/바이올렛.webp"
     },
     {
       "name": "바이올렛(이자나미)",
       "image": "images/priconne/characters/바이올렛(이자나미).webp"
-    },
-    {
-      "name": "바이올렛",
-      "image": "images/priconne/characters/바이올렛.webp"
     },
     {
       "name": "밤피",
@@ -507,8 +511,16 @@
       "image": "images/priconne/characters/블룸.webp"
     },
     {
+      "name": "블룸(발룸드라헤)",
+      "image": "images/priconne/characters/블룸(발룸드라헤).webp"
+    },
+    {
       "name": "비카라",
       "image": "images/priconne/characters/비카라.webp"
+    },
+    {
+      "name": "사렌",
+      "image": "images/priconne/characters/사렌.webp"
     },
     {
       "name": "사렌(사라사리아)",
@@ -527,16 +539,16 @@
       "image": "images/priconne/characters/사렌(크리스마스).webp"
     },
     {
-      "name": "사렌",
-      "image": "images/priconne/characters/사렌.webp"
-    },
-    {
       "name": "사츠키",
       "image": "images/priconne/characters/사츠키.webp"
     },
     {
       "name": "사쿠라",
       "image": "images/priconne/characters/사쿠라.webp"
+    },
+    {
+      "name": "셰피",
+      "image": "images/priconne/characters/셰피.webp"
     },
     {
       "name": "셰피(바드라헤)",
@@ -555,12 +567,12 @@
       "image": "images/priconne/characters/셰피(프린세스).webp"
     },
     {
-      "name": "셰피",
-      "image": "images/priconne/characters/셰피.webp"
-    },
-    {
       "name": "소노",
       "image": "images/priconne/characters/소노.webp"
+    },
+    {
+      "name": "스즈나",
+      "image": "images/priconne/characters/스즈나.webp"
     },
     {
       "name": "스즈나(여름)",
@@ -575,8 +587,8 @@
       "image": "images/priconne/characters/스즈나(할로윈).webp"
     },
     {
-      "name": "스즈나",
-      "image": "images/priconne/characters/스즈나.webp"
+      "name": "스즈메",
+      "image": "images/priconne/characters/스즈메.webp"
     },
     {
       "name": "스즈메(봄)",
@@ -591,12 +603,12 @@
       "image": "images/priconne/characters/스즈메(여름).webp"
     },
     {
-      "name": "스즈메",
-      "image": "images/priconne/characters/스즈메.webp"
-    },
-    {
       "name": "시나츠",
       "image": "images/priconne/characters/시나츠.webp"
+    },
+    {
+      "name": "시노부",
+      "image": "images/priconne/characters/시노부.webp"
     },
     {
       "name": "시노부(여름)",
@@ -611,8 +623,8 @@
       "image": "images/priconne/characters/시노부(해적).webp"
     },
     {
-      "name": "시노부",
-      "image": "images/priconne/characters/시노부.webp"
+      "name": "시오리",
+      "image": "images/priconne/characters/시오리.webp"
     },
     {
       "name": "시오리(겨울)",
@@ -627,12 +639,8 @@
       "image": "images/priconne/characters/시오리(매지컬).webp"
     },
     {
-      "name": "시오리",
-      "image": "images/priconne/characters/시오리.webp"
-    },
-    {
-      "name": "시즈루&리노",
-      "image": "images/priconne/characters/시즈루&리노.webp"
+      "name": "시즈루",
+      "image": "images/priconne/characters/시즈루.webp"
     },
     {
       "name": "시즈루(느와르)",
@@ -651,16 +659,16 @@
       "image": "images/priconne/characters/시즈루(여름).webp"
     },
     {
-      "name": "시즈루",
-      "image": "images/priconne/characters/시즈루.webp"
-    },
-    {
-      "name": "아네모네(여름)",
-      "image": "images/priconne/characters/아네모네(여름).webp"
+      "name": "시즈루&리노",
+      "image": "images/priconne/characters/시즈루&리노.webp"
     },
     {
       "name": "아네모네",
       "image": "images/priconne/characters/아네모네.webp"
+    },
+    {
+      "name": "아네모네(여름)",
+      "image": "images/priconne/characters/아네모네(여름).webp"
     },
     {
       "name": "아라크네",
@@ -671,12 +679,16 @@
       "image": "images/priconne/characters/아리사.webp"
     },
     {
+      "name": "아메스",
+      "image": "images/priconne/characters/아메스.webp"
+    },
+    {
       "name": "아메스(여름)",
       "image": "images/priconne/characters/아메스(여름).webp"
     },
     {
-      "name": "아메스",
-      "image": "images/priconne/characters/아메스.webp"
+      "name": "아야네",
+      "image": "images/priconne/characters/아야네.webp"
     },
     {
       "name": "아야네(크리스마스)",
@@ -687,8 +699,8 @@
       "image": "images/priconne/characters/아야네(탐험가).webp"
     },
     {
-      "name": "아야네",
-      "image": "images/priconne/characters/아야네.webp"
+      "name": "아오이",
+      "image": "images/priconne/characters/아오이.webp"
     },
     {
       "name": "아오이(작업복)",
@@ -707,8 +719,8 @@
       "image": "images/priconne/characters/아오이(편입생).webp"
     },
     {
-      "name": "아오이",
-      "image": "images/priconne/characters/아오이.webp"
+      "name": "아유미",
+      "image": "images/priconne/characters/아유미.webp"
     },
     {
       "name": "아유미(괴도)",
@@ -719,12 +731,12 @@
       "image": "images/priconne/characters/아유미(원더랜드).webp"
     },
     {
-      "name": "아유미",
-      "image": "images/priconne/characters/아유미.webp"
-    },
-    {
       "name": "아이라",
       "image": "images/priconne/characters/아이라.webp"
+    },
+    {
+      "name": "아카리",
+      "image": "images/priconne/characters/아카리.webp"
     },
     {
       "name": "아카리(엔젤)",
@@ -735,12 +747,8 @@
       "image": "images/priconne/characters/아카리(크리스마스).webp"
     },
     {
-      "name": "아카리",
-      "image": "images/priconne/characters/아카리.webp"
-    },
-    {
-      "name": "아키노&사렌",
-      "image": "images/priconne/characters/아키노&사렌.webp"
+      "name": "아키노",
+      "image": "images/priconne/characters/아키노.webp"
     },
     {
       "name": "아키노(여름)",
@@ -751,8 +759,12 @@
       "image": "images/priconne/characters/아키노(크리스마스).webp"
     },
     {
-      "name": "아키노",
-      "image": "images/priconne/characters/아키노.webp"
+      "name": "아키노&사렌",
+      "image": "images/priconne/characters/아키노&사렌.webp"
+    },
+    {
+      "name": "안나",
+      "image": "images/priconne/characters/안나.webp"
     },
     {
       "name": "안나(여름)",
@@ -763,32 +775,32 @@
       "image": "images/priconne/characters/안나(해적).webp"
     },
     {
-      "name": "안나",
-      "image": "images/priconne/characters/안나.webp"
+      "name": "앤",
+      "image": "images/priconne/characters/앤.webp"
     },
     {
       "name": "앤&글레어",
       "image": "images/priconne/characters/앤&글레어.webp"
     },
     {
-      "name": "앤",
-      "image": "images/priconne/characters/앤.webp"
-    },
-    {
       "name": "야마토",
       "image": "images/priconne/characters/야마토.webp"
-    },
-    {
-      "name": "에리스(여름)",
-      "image": "images/priconne/characters/에리스(여름).webp"
     },
     {
       "name": "에리스",
       "image": "images/priconne/characters/에리스.webp"
     },
     {
+      "name": "에리스(여름)",
+      "image": "images/priconne/characters/에리스(여름).webp"
+    },
+    {
       "name": "에리카(걸판)",
       "image": "images/priconne/characters/에리카(걸판).webp"
+    },
+    {
+      "name": "에리코",
+      "image": "images/priconne/characters/에리코.webp"
     },
     {
       "name": "에리코(발렌타인)",
@@ -803,28 +815,28 @@
       "image": "images/priconne/characters/에리코(커맨더).webp"
     },
     {
-      "name": "에리코",
-      "image": "images/priconne/characters/에리코.webp"
+      "name": "에밀리아",
+      "image": "images/priconne/characters/에밀리아.webp"
     },
     {
       "name": "에밀리아(여름)",
       "image": "images/priconne/characters/에밀리아(여름).webp"
     },
     {
-      "name": "에밀리아",
-      "image": "images/priconne/characters/에밀리아.webp"
-    },
-    {
       "name": "에키드나(여름)",
       "image": "images/priconne/characters/에키드나(여름).webp"
+    },
+    {
+      "name": "와카나",
+      "image": "images/priconne/characters/와카나.webp"
     },
     {
       "name": "와카나(겨울)",
       "image": "images/priconne/characters/와카나(겨울).webp"
     },
     {
-      "name": "와카나",
-      "image": "images/priconne/characters/와카나.webp"
+      "name": "요리",
+      "image": "images/priconne/characters/요리.webp"
     },
     {
       "name": "요리(엔젤)",
@@ -835,12 +847,12 @@
       "image": "images/priconne/characters/요리(크리스마스).webp"
     },
     {
-      "name": "요리",
-      "image": "images/priconne/characters/요리.webp"
-    },
-    {
       "name": "우즈키(데레)",
       "image": "images/priconne/characters/우즈키(데레).webp"
+    },
+    {
+      "name": "유니",
+      "image": "images/priconne/characters/유니.webp"
     },
     {
       "name": "유니(겨울)",
@@ -851,8 +863,8 @@
       "image": "images/priconne/characters/유니(성학제).webp"
     },
     {
-      "name": "유니",
-      "image": "images/priconne/characters/유니.webp"
+      "name": "유이",
+      "image": "images/priconne/characters/유이.webp"
     },
     {
       "name": "유이(새해)",
@@ -879,8 +891,8 @@
       "image": "images/priconne/characters/유이(프린세스).webp"
     },
     {
-      "name": "유이",
-      "image": "images/priconne/characters/유이.webp"
+      "name": "유카리",
+      "image": "images/priconne/characters/유카리.webp"
     },
     {
       "name": "유카리(여름)",
@@ -895,8 +907,8 @@
       "image": "images/priconne/characters/유카리(크리스마스).webp"
     },
     {
-      "name": "유카리",
-      "image": "images/priconne/characters/유카리.webp"
+      "name": "유키",
+      "image": "images/priconne/characters/유키.webp"
     },
     {
       "name": "유키(오에도)",
@@ -907,12 +919,12 @@
       "image": "images/priconne/characters/유키(의장복).webp"
     },
     {
-      "name": "유키",
-      "image": "images/priconne/characters/유키.webp"
-    },
-    {
       "name": "유키노",
       "image": "images/priconne/characters/유키노.webp"
+    },
+    {
+      "name": "이노리",
+      "image": "images/priconne/characters/이노리.webp"
     },
     {
       "name": "이노리(괴도)",
@@ -927,12 +939,12 @@
       "image": "images/priconne/characters/이노리(시간 여행).webp"
     },
     {
-      "name": "이노리",
-      "image": "images/priconne/characters/이노리.webp"
-    },
-    {
       "name": "이로하",
       "image": "images/priconne/characters/이로하.webp"
+    },
+    {
+      "name": "이리야",
+      "image": "images/priconne/characters/이리야.webp"
     },
     {
       "name": "이리야(새해)",
@@ -947,8 +959,8 @@
       "image": "images/priconne/characters/이리야(크리스마스).webp"
     },
     {
-      "name": "이리야",
-      "image": "images/priconne/characters/이리야.webp"
+      "name": "이오",
+      "image": "images/priconne/characters/이오.webp"
     },
     {
       "name": "이오(느와르)",
@@ -963,8 +975,8 @@
       "image": "images/priconne/characters/이오(크리스마스).webp"
     },
     {
-      "name": "이오",
-      "image": "images/priconne/characters/이오.webp"
+      "name": "쥰",
+      "image": "images/priconne/characters/쥰.webp"
     },
     {
       "name": "쥰(여름)",
@@ -975,16 +987,16 @@
       "image": "images/priconne/characters/쥰(크리스마스).webp"
     },
     {
-      "name": "쥰",
-      "image": "images/priconne/characters/쥰.webp"
+      "name": "지타",
+      "image": "images/priconne/characters/지타.webp"
     },
     {
       "name": "지타(워록)",
       "image": "images/priconne/characters/지타(워록).webp"
     },
     {
-      "name": "지타",
-      "image": "images/priconne/characters/지타.webp"
+      "name": "츠무기",
+      "image": "images/priconne/characters/츠무기.webp"
     },
     {
       "name": "츠무기(여름)",
@@ -999,8 +1011,8 @@
       "image": "images/priconne/characters/츠무기(할로윈).webp"
     },
     {
-      "name": "츠무기",
-      "image": "images/priconne/characters/츠무기.webp"
+      "name": "치에루",
+      "image": "images/priconne/characters/치에루.webp"
     },
     {
       "name": "치에루(겨울)",
@@ -1011,8 +1023,8 @@
       "image": "images/priconne/characters/치에루(성학제).webp"
     },
     {
-      "name": "치에루",
-      "image": "images/priconne/characters/치에루.webp"
+      "name": "치카",
+      "image": "images/priconne/characters/치카.webp"
     },
     {
       "name": "치카(여름)",
@@ -1027,20 +1039,20 @@
       "image": "images/priconne/characters/치카(크리스마스).webp"
     },
     {
-      "name": "치카",
-      "image": "images/priconne/characters/치카.webp"
-    },
-    {
       "name": "카논",
       "image": "images/priconne/characters/카논.webp"
+    },
+    {
+      "name": "카린",
+      "image": "images/priconne/characters/카린.webp"
     },
     {
       "name": "카린(알케미스트)",
       "image": "images/priconne/characters/카린(알케미스트).webp"
     },
     {
-      "name": "카린",
-      "image": "images/priconne/characters/카린.webp"
+      "name": "카스미",
+      "image": "images/priconne/characters/카스미.webp"
     },
     {
       "name": "카스미(매지컬)",
@@ -1059,8 +1071,8 @@
       "image": "images/priconne/characters/카스미(여름).webp"
     },
     {
-      "name": "카스미",
-      "image": "images/priconne/characters/카스미.webp"
+      "name": "카야",
+      "image": "images/priconne/characters/카야.webp"
     },
     {
       "name": "카야(리버레이터)",
@@ -1071,8 +1083,8 @@
       "image": "images/priconne/characters/카야(시간 여행).webp"
     },
     {
-      "name": "카야",
-      "image": "images/priconne/characters/카야.webp"
+      "name": "카오리",
+      "image": "images/priconne/characters/카오리.webp"
     },
     {
       "name": "카오리(여름)",
@@ -1083,12 +1095,12 @@
       "image": "images/priconne/characters/카오리(할로윈).webp"
     },
     {
-      "name": "카오리",
-      "image": "images/priconne/characters/카오리.webp"
-    },
-    {
       "name": "카이저 인사이트",
       "image": "images/priconne/characters/카이저 인사이트.webp"
+    },
+    {
+      "name": "캬루",
+      "image": "images/priconne/characters/캬루.webp"
     },
     {
       "name": "캬루(새해)",
@@ -1115,8 +1127,8 @@
       "image": "images/priconne/characters/캬루(프린세스).webp"
     },
     {
-      "name": "캬루",
-      "image": "images/priconne/characters/캬루.webp"
+      "name": "콧코로",
+      "image": "images/priconne/characters/콧코로.webp"
     },
     {
       "name": "콧코로(레인저)",
@@ -1143,8 +1155,8 @@
       "image": "images/priconne/characters/콧코로(향도유군).webp"
     },
     {
-      "name": "콧코로",
-      "image": "images/priconne/characters/콧코로.webp"
+      "name": "쿄우카",
+      "image": "images/priconne/characters/쿄우카.webp"
     },
     {
       "name": "쿄우카(고식)",
@@ -1163,12 +1175,12 @@
       "image": "images/priconne/characters/쿄우카(할로윈).webp"
     },
     {
-      "name": "쿄우카",
-      "image": "images/priconne/characters/쿄우카.webp"
-    },
-    {
       "name": "쿠루루",
       "image": "images/priconne/characters/쿠루루.webp"
+    },
+    {
+      "name": "쿠루미",
+      "image": "images/priconne/characters/쿠루미.webp"
     },
     {
       "name": "쿠루미(무대)",
@@ -1179,8 +1191,8 @@
       "image": "images/priconne/characters/쿠루미(크리스마스).webp"
     },
     {
-      "name": "쿠루미",
-      "image": "images/priconne/characters/쿠루미.webp"
+      "name": "쿠우카",
+      "image": "images/priconne/characters/쿠우카.webp"
     },
     {
       "name": "쿠우카(느와르)",
@@ -1195,8 +1207,8 @@
       "image": "images/priconne/characters/쿠우카(오에도).webp"
     },
     {
-      "name": "쿠우카",
-      "image": "images/priconne/characters/쿠우카.webp"
+      "name": "크레짓타",
+      "image": "images/priconne/characters/크레짓타.webp"
     },
     {
       "name": "크레짓타(여름)",
@@ -1207,8 +1219,8 @@
       "image": "images/priconne/characters/크레짓타(크리스마스).webp"
     },
     {
-      "name": "크레짓타",
-      "image": "images/priconne/characters/크레짓타.webp"
+      "name": "크리스티나",
+      "image": "images/priconne/characters/크리스티나.webp"
     },
     {
       "name": "크리스티나(알파)",
@@ -1223,8 +1235,8 @@
       "image": "images/priconne/characters/크리스티나(크리스마스).webp"
     },
     {
-      "name": "크리스티나",
-      "image": "images/priconne/characters/크리스티나.webp"
+      "name": "크리아",
+      "image": "images/priconne/characters/크리아.webp"
     },
     {
       "name": "크리아(발큐리아)",
@@ -1235,8 +1247,8 @@
       "image": "images/priconne/characters/크리아(여름).webp"
     },
     {
-      "name": "크리아",
-      "image": "images/priconne/characters/크리아.webp"
+      "name": "클로에",
+      "image": "images/priconne/characters/클로에.webp"
     },
     {
       "name": "클로에(겨울)",
@@ -1247,16 +1259,20 @@
       "image": "images/priconne/characters/클로에(성학제).webp"
     },
     {
-      "name": "클로에",
-      "image": "images/priconne/characters/클로에.webp"
+      "name": "클로체",
+      "image": "images/priconne/characters/클로체.webp"
+    },
+    {
+      "name": "클로체(서브마린)",
+      "image": "images/priconne/characters/클로체(서브마린).webp"
     },
     {
       "name": "클로체(에어리얼)",
       "image": "images/priconne/characters/클로체(에어리얼).webp"
     },
     {
-      "name": "클로체",
-      "image": "images/priconne/characters/클로체.webp"
+      "name": "타마키",
+      "image": "images/priconne/characters/타마키.webp"
     },
     {
       "name": "타마키(여름)",
@@ -1271,8 +1287,8 @@
       "image": "images/priconne/characters/타마키(카페).webp"
     },
     {
-      "name": "타마키",
-      "image": "images/priconne/characters/타마키.webp"
+      "name": "토모",
+      "image": "images/priconne/characters/토모.webp"
     },
     {
       "name": "토모(매지컬)",
@@ -1283,8 +1299,12 @@
       "image": "images/priconne/characters/토모(할로윈).webp"
     },
     {
-      "name": "토모",
-      "image": "images/priconne/characters/토모.webp"
+      "name": "티아",
+      "image": "images/priconne/characters/티아.webp"
+    },
+    {
+      "name": "페코린느",
+      "image": "images/priconne/characters/페코린느.webp"
     },
     {
       "name": "페코린느(새해)",
@@ -1311,8 +1331,8 @@
       "image": "images/priconne/characters/페코린느(프린세스).webp"
     },
     {
-      "name": "페코린느",
-      "image": "images/priconne/characters/페코린느.webp"
+      "name": "프레시아",
+      "image": "images/priconne/characters/프레시아.webp"
     },
     {
       "name": "프레시아(발큐리아)",
@@ -1323,16 +1343,12 @@
       "image": "images/priconne/characters/프레시아(여름).webp"
     },
     {
-      "name": "프레시아",
-      "image": "images/priconne/characters/프레시아.webp"
-    },
-    {
       "name": "피오",
       "image": "images/priconne/characters/피오.webp"
     },
     {
-      "name": "하츠네&시오리",
-      "image": "images/priconne/characters/하츠네&시오리.webp"
+      "name": "하츠네",
+      "image": "images/priconne/characters/하츠네.webp"
     },
     {
       "name": "하츠네(새해)",
@@ -1343,8 +1359,12 @@
       "image": "images/priconne/characters/하츠네(여름).webp"
     },
     {
-      "name": "하츠네",
-      "image": "images/priconne/characters/하츠네.webp"
+      "name": "하츠네&시오리",
+      "image": "images/priconne/characters/하츠네&시오리.webp"
+    },
+    {
+      "name": "호마레",
+      "image": "images/priconne/characters/호마레.webp"
     },
     {
       "name": "호마레(새해)",
@@ -1355,16 +1375,16 @@
       "image": "images/priconne/characters/호마레(여름).webp"
     },
     {
-      "name": "호마레",
-      "image": "images/priconne/characters/호마레.webp"
-    },
-    {
       "name": "후부키",
       "image": "images/priconne/characters/후부키.webp"
     },
     {
       "name": "후부키(여름)",
       "image": "images/priconne/characters/후부키(여름).webp"
+    },
+    {
+      "name": "히요리",
+      "image": "images/priconne/characters/히요리.webp"
     },
     {
       "name": "히요리(사라사리아)",
@@ -1385,10 +1405,6 @@
     {
       "name": "히요리(프린세스)",
       "image": "images/priconne/characters/히요리(프린세스).webp"
-    },
-    {
-      "name": "히요리",
-      "image": "images/priconne/characters/히요리.webp"
     }
   ]
 }

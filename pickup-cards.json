@@ -1,7 +1,7 @@
 {
   "version": 2,
   "timezone": "Asia/Seoul",
-  "updatedAt": "2026-09-14",
+  "updatedAt": "2026-10-06",
   "cards": [
     {
       "id": "priconne-iroha-20260719",
@@ -122,6 +122,16 @@
       "url": "",
       "image": "images/priconne/characters/니논(여름).webp",
       "order": 110
+    },
+    {
+      "id": "gfl2-mytil-20261008",
+      "game": "소녀전선2",
+      "name": "미틸",
+      "start": "2026-10-08T09:00:00+09:00",
+      "end": "2026-10-28T18:59:59+09:00",
+      "url": "",
+      "image": "images/gfl2/2026/mytil.webp",
+      "order": 120
     }
   ]
 }
